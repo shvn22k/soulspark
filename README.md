@@ -34,3 +34,10 @@ soulspark-rediscovering-lost-souls/
 ├── styles.css           # Styling for the project
 ├── scripts.js           # JavaScript file for interactive functionality
 └── README.md            # Project documentation (this file)
+
+```
+
+## Glimpse
+- ![img1](https://github.com/shvn22k/soulspark/blob/main/Screenshot%202024-10-16%20184108.png)
+- ![img2](https://github.com/shvn22k/soulspark/blob/main/Screenshot%202024-10-16%20184124.png)
+
